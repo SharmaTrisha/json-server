@@ -1,0 +1,50 @@
+[
+{
+    "id": 1,
+    "name": "M6",
+    "brand": "huwaei",
+    "price": 2000,
+    "Ram": "3GB",
+    "Rom": "32GB"
+},
+{
+    "id": 2,
+    "name": "L1",
+    "brand": "Samsung",
+    "price": 3000,
+    "Ram": "3GB",
+    "Rom": "32GB"
+},
+{
+    "id": 3,
+    "name": "H1",
+    "brand": "Motorola",
+    "price": 2000,
+    "Ram": "3GB",
+    "Rom": "32GB"
+},
+{
+    "id": 4,
+    "name": "G5",
+    "brand": "Intex",
+    "price": 2000,
+    "Ram": "3GB",
+    "Rom": "32GB"
+},
+{
+    "id": 5,
+    "name": "J7",
+    "brand": "MI",
+    "price": 2000,
+    "Ram": "3GB",
+    "Rom": "32GB"
+},
+{
+    "id": 6,
+    "name": "K9",
+    "brand": "One Plus",
+    "price": 2000,
+    "Ram": "3GB",
+    "Rom": "32GB"
+}
+}
