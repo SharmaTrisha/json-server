@@ -1,0 +1,26 @@
+[
+  {
+    "id" : 1,
+    "name" : "H6",
+    "brand" : "Huwaei",
+    "price" : 2000,
+    "Ram" : "3GB",
+    "Rom" : "48GB"
+  },
+  {
+    "id" : 2,
+    "name" : "M5",
+    "brand" : "Samsung",
+    "price" : 2000,
+    "Ram" : "3GB",
+    "Rom" : "48GB"
+  },
+  {
+    "id" : 3,
+    "name" : "L1",
+    "brand" : "MI",
+    "price" : 2000,
+    "Ram" : "3GB",
+    "Rom" : "48GB"
+  },
+]
